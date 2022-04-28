@@ -1,4 +1,4 @@
-# banking-capstone-project
+# Capstone-Project-Banking-System
 This repo contains the final capstone project It is a Banking application built with angular and spring-boot with MySQL database.
 
 For running this project download all files from the deployment<br>
